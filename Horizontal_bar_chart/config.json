@@ -30,9 +30,9 @@
             "xAxisScale":[-10,90]            
     },
     "optional" : {
-            "margin_sm": [5, 10, 5, 190],
-            "margin_md": [5, 10, 5, 190],
-            "margin_lg": [5, 10, 5, 200],
+            "margin_sm": [5, 20, 5, 135],
+            "margin_md": [5, 20, 5, 135],
+            "margin_lg": [5, 20, 5, 135],
         
             "aspectRatio_sm" : [4,7],
             "aspectRatio_md" : [1,1],
